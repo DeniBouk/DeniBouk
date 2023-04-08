@@ -1,4 +1,4 @@
-<img src="./meet_erika.jpg" width="80%" height="80%">
+<img src="./gcloud Skill-boost.png" width="80%" height="80%">
 <br>
 
 ## Hi there! ✌️
