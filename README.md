@@ -6,3 +6,7 @@ I'm a Junior Data Analyst with experience in Google Cloud Platform (GCP). Worked
 
 ## 🧑‍💻 Stack
 ![](https://img.shields.io/badge/Tools-BigQuery-green) ![](https://img.shields.io/badge/Tools-sheet-green) ![](https://img.shields.io/badge/viz-Looker-blue) ![](https://img.shields.io/badge/viz-Tableau-blue) ![](https://img.shields.io/badge/Language-R-yellow) ![](https://img.shields.io/badge/Language-Python-yellow) 
+
+## 🪄⚒️ Latest [work](g.dev/denibouk)
+- [Look at my kaggle](https://www.kaggle.com/denialfianbouk)
+- [See my journey on medium](https://medium.com/@denialvarado55)
